@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DBFEAF9E-9311-E6A3-A9C3-6B28123F1FA2}") = "3dsmaxViewport", "Assembly-CSharp-firstpass.csproj", "{D1050DE1-A392-84F5-02C5-98887ADFDF38}"
+EndProject
+Project("{DBFEAF9E-9311-E6A3-A9C3-6B28123F1FA2}") = "3dsmaxViewport", "Assembly-CSharp.csproj", "{F895A99E-5634-7499-320B-8AF52827D16E}"
+EndProject
+Project("{DBFEAF9E-9311-E6A3-A9C3-6B28123F1FA2}") = "3dsmaxViewport", "Assembly-CSharp-Editor.csproj", "{1A518785-0133-740E-950D-4C03CB63538A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1050DE1-A392-84F5-02C5-98887ADFDF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1050DE1-A392-84F5-02C5-98887ADFDF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1050DE1-A392-84F5-02C5-98887ADFDF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1050DE1-A392-84F5-02C5-98887ADFDF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F895A99E-5634-7499-320B-8AF52827D16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F895A99E-5634-7499-320B-8AF52827D16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F895A99E-5634-7499-320B-8AF52827D16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F895A99E-5634-7499-320B-8AF52827D16E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A518785-0133-740E-950D-4C03CB63538A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A518785-0133-740E-950D-4C03CB63538A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A518785-0133-740E-950D-4C03CB63538A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A518785-0133-740E-950D-4C03CB63538A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
